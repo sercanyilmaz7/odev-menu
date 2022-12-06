@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.div1{
+   
+    text-align: center;
+    margin: 10px;
+}
+
+li{
+    display: inline-block;
+    background-color: rgb(228, 197, 135);
+    border: 2px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 10px;
+}
+
+li:hover{
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    font-size:10px;
+}
